@@ -1,9 +1,8 @@
 * {
   box-sizing: border-box;
 }
-.cc {font-weight: bold;display: inline-block;float: left;}
+.cc {font-weight: bold;display: inline-block;}
 .left30 {margin-left: 30px;}
-.left{float: left;}
 h1 {
   color: #fff;
   background: #858585;
@@ -18,9 +17,9 @@ h1 {
   margin: 0;
   display: inline-block;
   border-bottom: 1px solid #fff;
-  float: left;
+  
 }
-.cc + div {display: inline-block;float: left;}
+.cc + div {display: inline-block;}
 div>b,div>span {
   display: inline-block;height: 50px;line-height: 50px;
 }
