@@ -7,3 +7,6 @@ https://www.jianshu.com/p/32625661a0fc
 
 # The 3 day (2018/05/02
 https://codepen.io/siyuan0524/pen/jxmyva
+
+# The 4 day (2018/05/02
+https://github.com/Siyuan0524/First-day/blob/master/day04/resume.html
