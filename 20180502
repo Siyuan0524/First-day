@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+  <head lang="en">
+    <title>简历</title>
+    <meta charset="utf-8">
+    <style>
+      * {background:#fcf;list-style:none;}
+      h1 {text-align:center;text-shadow: 3px 3px 3px #cfc;}
+      div>img {width:100px;height:100px;background:#ccc;}
+      hr {width:90%;}
+      .hh {padding-left:10%;font-size:18px;}
+    </style>
+  </head>
+  <body>
+    <h1>个人信息</h1>
+    <ul class="hh">
+      <li><b>姓名</b>：<span style="color:yellow;">重度中二源叔叔</span></li> 
+      <li><b>手机</b>：<span>150********</span></li> 
+      <li><b>邮箱</b>：<span>10088@bd.com</span></li> 
+      <li><b>学历</b>：<span>本科 百度前端技术学院</span></li> 
+    </ul>
+    <hr />
+    <h1>项目经验</h1>
+    <ul class="hh">
+      <li><b>项目名称</b>：<b>项目A</b></li> 
+      <li><b>责任描述</b>：<i>在项目A中负责了xxxxx</i></li> 
+      <li><b>项目名称</b>：<b>项目B</b></li> 
+      <li><b>责任描述</b>：<i>在项目B中负责了xxxxx</i></li> 
+    </ul>
+  </body>
+</html>
